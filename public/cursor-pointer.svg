@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+  <!-- Click spark lines radiating from top-left -->
+  <line x1="6" y1="1" x2="6" y2="4.5" stroke="white" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="1" y1="6" x2="4.5" y2="6" stroke="white" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="2.5" y1="2.5" x2="5" y2="5" stroke="white" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="9.5" y1="2.5" x2="7.5" y2="5" stroke="white" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="2.5" y1="9.5" x2="5" y2="7.5" stroke="white" stroke-width="1.8" stroke-linecap="round"/>
+  <!-- Main triangular arrow shape -->
+  <path d="M6 6L30 19L19 19L14 30Z" fill="white" stroke="rgba(180,190,210,0.6)" stroke-width="0.8" stroke-linejoin="round"/>
+  <!-- Inner fold for 3D depth -->
+  <path d="M6 6L19 19L14 30Z" fill="rgba(220,225,235,0.5)"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+  <!-- Main triangular arrow shape -->
+  <path d="M2 1L28 16L16 16L10 28Z" fill="white" stroke="rgba(180,190,210,0.6)" stroke-width="0.8" stroke-linejoin="round"/>
+  <!-- Inner fold for 3D depth -->
+  <path d="M2 1L16 16L10 28Z" fill="rgba(220,225,235,0.5)"/>
+</svg>
